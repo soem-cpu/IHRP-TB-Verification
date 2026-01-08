@@ -8,7 +8,7 @@ st.set_page_config(page_title="Dynamic Rule-Based Data Verification", layout="wi
 # Show TB image at top
 st.image("TB image2.jpg", width=200)  # adjust width as needed
 
-st.title("📊 IHRP: TB Data Verification App")
+st.title("📊 IHRP: TB data verification & indicator calculation")
 
 st.markdown("""
 Upload your **Python rules file** and the **Excel file** you want to verify.
